@@ -1,0 +1,11 @@
+id,title,organization,state,district,location,min_education,skills,sector,remote,description,url
+1,Digital Marketing Intern,Youth NGO,Karnataka,Bengaluru,Bengaluru,UG,communication;social media;content writing,NGO,yes,Help with social media campaigns,https://example.org/1
+2,Data Entry Intern,Local Council,Maharashtra,Pune,Pune,12th,typing;excel;data entry,Government,no,Assist with digitising records,https://example.org/2
+3,Frontend Intern,Startup,Telangana,Hyderabad,Hyderabad,UG,html;css;javascript,IT,no,Build landing pages,https://example.org/3
+4,Field Survey Intern,Research Org,Uttar Pradesh,Varanasi,Varanasi,12th,communication;survey;field work,NGO,no,Collect survey data in villages,https://example.org/4
+5,Graphic Design Intern,Art Collective,Delhi,New Delhi,New Delhi,UG,photoshop;illustrator;design,NGO,yes,Design posters and social media assets,https://example.org/5
+6,AI Research Intern,Tech Lab,Karnataka,Bengaluru,Bengaluru,PG,python;machine learning;research,IT,no,Support research experiments,https://example.org/6
+7,Community Outreach Intern,State Program,Kerala,Thiruvananthapuram,Thiruvananthapuram,12th,communication;local language;coordination,Government,no,Coordinate local camps,https://example.org/7
+8,Monitoring & Evaluation Intern,NGO,Jharkhand,Ranchi,Ranchi,UG,excel;data analysis;reporting,NGO,no,Analyze program data,https://example.org/8
+9,Remote Research Assistant,University,Any,Any,Remote,UG,reading;writing;research,Education,yes,Literature reviews and docs,https://example.org/9
+10,IT Support Intern,Municipal Office,Andhra Pradesh,Vijayawada,Vijayawada,12th,hardware;troubleshooting;communication,Government,no,Help maintain office equipment,https://example.org/10
